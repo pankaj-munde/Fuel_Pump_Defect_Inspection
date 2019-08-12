@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d2f6ba0-b11c-4c91-b3c8-627a89b9ba38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/.idea/Panse-12-06-19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Actions-media-record-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Backup-Sync-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Industry-Manual-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/LOGO1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Pause-Normal-Red-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Pause-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Play-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/Reload icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/hand-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/play icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/play-movies-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/ICONS/test icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Actions-media-record-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Backup-Sync-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Industry-Manual-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Pause-Normal-Red-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Pause-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Play-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/Reload icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/hand-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/play icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/play-movies-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/ICONS/test icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/mainDesign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/Qtdesigner file/mainDesign.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/COLLECT-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/PKG-00.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/mainAppPANSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/warn-mainAppPANSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/build/mainAppPANSE/xref-mainAppPANSE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/cam_handler2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/center_cam_res.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/lhs_cam_res.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/mainAppPANSE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/mainAppPANSE.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/mainDesign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/config/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/config/config_backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-edit-clear-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-edit-clear-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-go-next-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-go-previous-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-media-playback-stop-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-transform-move-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-transform-scale-icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Actions-transform-scale-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Animation-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Apps-File-Drawing-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Apps-Notifications-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Arrow-refresh-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Bluetooth-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/CCTV-Camera-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Check-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Cloud-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Cursor-Move-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Editing-Resize-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/House-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Industry-Manual-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Key-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Kingston-DataTraveler-USB-Stick-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Line-icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Line-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cache.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cp210x.ko.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cp210x.mod.o.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cp210x.o.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.tmp_versions/cp210x.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/CP210x_VCP_Linux_4.x_Release_Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/Module.symvers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.ko" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.mod.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.mod.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x_gpio_example.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/modules.order" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Mimetypes-exec-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Monitoring-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Pause-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Pause-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/PenDrive-USB-3.0-Kingston-DT100-G3-16GB-1-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Play-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Play-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Python-GUI-examples-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Resize-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Save-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Sign-Refresh-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Stop-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Stop-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Tips-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/Zoom-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/_save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/access.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/accessdenied.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/activation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/adds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/adds_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/anydesk_4.0.1-1_amd64.deb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/app.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/available-updates-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/avatron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/avatron_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/baseLayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/baseScreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/bt_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/bt_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/bttest_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/bttest_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/close1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/con1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/corner-resize-maximum-increase-vector-design-tool-36591f7d0275c6f4-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/data.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/delete-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/denied.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/doar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/document_into.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/donation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/file-export-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/googleassistnace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/graph_edge_directed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/hand_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/hot-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/images (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/import-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/import-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/import.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/internal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/led_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/light_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/light_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/lightbulb (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/media_pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/media_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/message-2-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/move-icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/move-icon (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/move-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/move.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/nav_down_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/nav_left_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/nav_right_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/nav_up_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/no_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/off_led.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/offline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/on_led.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/preview-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/printer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/printer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/printing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/pylon_5.0.12.11829-deb0_amd64.deb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/pypylon-1.3.1-cp35-cp35m-linux_x86_64.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/receipt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/recording.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/sb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/sbm+machine+records.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/settings_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/sign_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/sleep-mode-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/smart_control_device.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/smart_security.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/smartcctv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/timeout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/unauth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/upload-2-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/usb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/usb2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/video-file-2-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/view-multi-column-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/icons/zoom_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/pfs/New Folder/acA1440-73gc_40022423.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/pfs/New Folder/acA1440-73gc_40022430.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/pfs/New Folder/acA1440-73gc_40022432.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/pfs/acA1440-73gc_40022423.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/pfs/acA1440-73gc_40022430.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/pfs/acA1440-73gc_40022432.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/video/22700331.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/video/22742258.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/resources/video/22800716.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/rhs_cam_res.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Panse-18-06-19/Final Code/Main Design/serial_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/.idea/Spool Winding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/.idea/garware 16-05-19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Actions-media-record-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Backup-Sync-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Industry-Manual-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/LOGO1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Pause-Normal-Red-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Pause-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Play-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/Reload icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/hand-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/play icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/play-movies-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/ICONS/test icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/Size Measurement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/camera_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/mainAppSPOOL.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/mainDesign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/mainDesign.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/mainDesign2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/mbus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/modbusHandler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/config/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/config/config_backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/config/config_plc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/config/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-05-24_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-05-25_SP-2_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-05-25_SP2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-05-25_SP3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-05-25_test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-05-25_test3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/data/spool_2019-06-18_test-11.67.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-edit-clear-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-edit-clear-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-go-next-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-go-previous-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-media-playback-stop-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-transform-move-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-transform-scale-icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Actions-transform-scale-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Animation-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Apps-File-Drawing-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Apps-Notifications-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Arrow-refresh-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Bluetooth-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/CCTV-Camera-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Check-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Cloud-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Cursor-Move-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Editing-Resize-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/House-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Industry-Manual-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Key-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Kingston-DataTraveler-USB-Stick-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Line-icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Line-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cache.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cp210x.ko.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cp210x.mod.o.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.cp210x.o.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/.tmp_versions/cp210x.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/CP210x_VCP_Linux_4.x_Release_Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/Module.symvers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.ko" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.mod.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.mod.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/cp210x_gpio_example.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Linux_3.x.x_4.x.x_VCP_Driver_Source/modules.order" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Mimetypes-exec-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Monitoring-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Pause-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Pause-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/PenDrive-USB-3.0-Kingston-DT100-G3-16GB-1-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Play-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Play-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Python-GUI-examples-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Resize-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Save-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Sign-Refresh-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Stop-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Stop-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Tips-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/Zoom-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/_save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/access.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/accessdenied.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/activation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/adds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/adds_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/anydesk_4.0.1-1_amd64.deb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/app.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/available-updates-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/avatron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/avatron_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/baseLayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/baseScreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/bt_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/bt_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/bttest_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/bttest_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/close1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/con1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/corner-resize-maximum-increase-vector-design-tool-36591f7d0275c6f4-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/data.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/delete-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/denied.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/doar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/document_into.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/donation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/file-export-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/googleassistnace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/graph_edge_directed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/hand_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/hot-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/images (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/import-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/import-icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/import.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/internal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/led_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/light_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/light_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/lightbulb (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/media_pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/media_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/message-2-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/move-icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/move-icon (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/move-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/move.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/nav_down_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/nav_left_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/nav_right_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/nav_up_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/no_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/off_led.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/offline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/on_led.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/preview-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/printer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/printer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/printing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/pylon_5.0.12.11829-deb0_amd64.deb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/pypylon-1.3.1-cp35-cp35m-linux_x86_64.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/receipt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/recording.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/sb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/sbm+machine+records.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/settings_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/sign_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/sleep-mode-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/smart_control_device.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/smart_security.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/smartcctv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/timeout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/unauth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/upload-2-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/usb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/usb2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/video-file-2-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/view-multi-column-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/icons/zoom_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/resources/pfs/acA1440-73gm_40022418.pfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/spool_2019-06-08_test5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/test8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/autocompletion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/base_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/main_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/candidate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/format_control.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/link.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pyproject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_tracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/_in_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/colorlog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/envbuild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Lib/tcl8.6/init.tcl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_ctypes_test.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_distutils_findvs.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_msi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_testbuffer.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_testcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_testconsole.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_testimportmultiple.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_testmultiphase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/_tkinter.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/easy_install-3.6-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/easy_install-3.6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pip-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pip3-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pip3.6-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pip3.6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/python36.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/tcl86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/tk86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/Scripts/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spool Winding/Final Code/venv/pyvenv.cfg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/big_Job/top1/top1_faults.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#2489#3591#0" />
+                <element signature="e#3628#4761#0" />
+                <element signature="e#4794#5181#0" />
+                <element signature="e#5205#8985#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pfs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/constants/sliders.py" />
+        <option value="$PROJECT_DIR$/processing/improcess.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/data/config/config.json" />
+        <option value="$PROJECT_DIR$/processing/cam_handler.py" />
+        <option value="$PROJECT_DIR$/cam_test.py" />
+        <option value="$PROJECT_DIR$/top1/cam_test.py" />
+        <option value="$PROJECT_DIR$/top2/test2.py" />
+        <option value="$PROJECT_DIR$/top1/top1_faults.py" />
+        <option value="$PROJECT_DIR$/small_job/top1/top1_faults.py" />
+        <option value="$PROJECT_DIR$/cam.py" />
+        <option value="$PROJECT_DIR$/big_Job/top1/top1_faults.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/demo_5_8_19.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="995" />
+    <option name="y" value="27" />
+    <option name="width" value="925" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo_5_8_19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo_5_8_19" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small_job" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/big_Job" />
+      <recent name="$PROJECT_DIR$/top1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/small_job" />
+      <recent name="$PROJECT_DIR$/top2" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/processing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.top1_faults (1)">
+    <configuration name="cam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo_5_8_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cam_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo_5_8_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top1/top1_faults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo_5_8_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top2/top2_Faults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="top1_faults (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo_5_8_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/big_Job/top1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/big_Job/top1/top1_faults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="top1_faults" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo_5_8_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/small_job/top1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small_job/top1/top1_faults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.top1_faults (1)" />
+        <item itemvalue="Python.top1_faults" />
+        <item itemvalue="Python.cam" />
+        <item itemvalue="Python.cam_test" />
+        <item itemvalue="Python.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d2f6ba0-b11c-4c91-b3c8-627a89b9ba38" name="Default Changelist" comment="" />
+      <created>1564981555035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564981555035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15780821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49534246" visible="true" weight="0.26893523" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49972603" weight="0.39956093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4977778" weight="0.32930845" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4969863" weight="0.26783755" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5046575" side_tool="true" visible="true" weight="0.26893523" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4980822" weight="0.32930845" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/bin/pip" />
+    <entry file="file://$PROJECT_DIR$/top1/ui_design/076.ui" />
+    <entry file="file://$PROJECT_DIR$/top1/constants/sliders.py" />
+    <entry file="file://$PROJECT_DIR$/top1/processing/cam_handler.py" />
+    <entry file="file://$PROJECT_DIR$/top1/processing/improcess.py" />
+    <entry file="file://$PROJECT_DIR$/top1/mainApp.py" />
+    <entry file="file://$PROJECT_DIR$/big_Job/top1/data/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big_Job/top2/data/pfs/acA1300-60gc_22887293.pfs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top2/cam_test.py" />
+    <entry file="file://$PROJECT_DIR$/big_Job/top2/top2_Faults.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#2385#3829#0" />
+            <element signature="e#4167#8018#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/small_job/top1/data/pfs/acA1300-60gc_22887293.pfs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/small_job/top1/top1_faults.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#2434#3939#0" />
+            <element signature="e#4794#5181#0" />
+            <element signature="e#5205#8985#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big_Job/top1/top1_faults.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#2489#3591#0" />
+            <element signature="e#3628#4761#0" />
+            <element signature="e#4794#5181#0" />
+            <element signature="e#5205#8985#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
