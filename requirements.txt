@@ -3,6 +3,6 @@ PyQt5-sip==4.19.18
 imutils==0.5.2
 matplotlib==3.1.1
 numpy==1.16.4
-psutil==5.6.3
+psutil==5.6.6
 pypylon==1.4.0
 opencv-python
